@@ -1,0 +1,31 @@
+---
+kn:
+  title: ಇಂಟರ್ನೆಟ್ ಸ್ಥಗಿತದ ಸಮಯದಲ್ಲಿ ಹೇಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ?
+  no_internet: 'ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ '
+  no_sms: 'ಮೆಸೇಜ್ (SMS) ಇಲ್ಲ '
+  no_calls: 'ಕಾಲ್ಸ್ ಇಲ್ಲ '
+  install: 'Bridgefy install ಮಾಡಿಕೊಳ್ಳಿ '
+  intro: This app allows people to chat via BLUETOOTH. Messages hop through phones
+    of people around you, so the more people have Bridgefy on their phones, the stronger
+    the network. Install and test with friends before you step you.
+  bluetooth: After installing make sure Bluetooth is on.
+  troubleshoot: 'If you don’t see people nearby in the app try:'
+  airplane: Switch airplane mode on and off
+  battery: Turning off battery optimization
+  restart: Force restarting the app
+  aware: Be aware
+  privacy: There is no privacy in Broadcast mode, anyone with this app who is nearby
+    can see messages
+  verify: If you choose to verify your number in the app, your number may be visible
+    to everyone in the Broadcast group
+  delay: Keep in mind that messages might appear out of order and with some delay
+  remember: 'Remember to:'
+  charge: Charge your phone
+  power_bank: Carry a fully charged power bank
+  chargers: Carry your phone & power bank chargers
+  recharge: Make sure you have talktime & data on your phone
+  location: Share your live location using Google Maps (better for battery) or WhatsApp
+    (battery draining) with your friends and family
+  video: Use Instagram Live to share videos as much as possible so you have a record
+    of your content online in case you lose your phone
+  outro: Take these measures to keep yourself connected and safe.
