@@ -1,31 +1,64 @@
 ---
 kn:
-  title: ಇಂಟರ್ನೆಟ್ ಸ್ಥಗಿತದ ಸಮಯದಲ್ಲಿ ಹೇಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ?
+  install: 'Bridgefy install ಮಾಡಿಕೊಳ್ಳಿ '
+  no_calls: 'ಕಾಲ್ಸ್ ಇಲ್ಲ '
   no_internet: 'ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ '
   no_sms: 'ಮೆಸೇಜ್ (SMS) ಇಲ್ಲ '
-  no_calls: 'ಕಾಲ್ಸ್ ಇಲ್ಲ '
-  install: 'Bridgefy install ಮಾಡಿಕೊಳ್ಳಿ '
-  intro: This app allows people to chat via BLUETOOTH. Messages hop through phones
-    of people around you, so the more people have Bridgefy on their phones, the stronger
-    the network. Install and test with friends before you step you.
-  bluetooth: After installing make sure Bluetooth is on.
-  troubleshoot: 'If you don’t see people nearby in the app try:'
-  airplane: Switch airplane mode on and off
-  battery: Turning off battery optimization
-  restart: Force restarting the app
-  aware: Be aware
-  privacy: There is no privacy in Broadcast mode, anyone with this app who is nearby
-    can see messages
-  verify: If you choose to verify your number in the app, your number may be visible
-    to everyone in the Broadcast group
-  delay: Keep in mind that messages might appear out of order and with some delay
-  remember: 'Remember to:'
-  charge: Charge your phone
-  power_bank: Carry a fully charged power bank
-  chargers: Carry your phone & power bank chargers
-  recharge: Make sure you have talktime & data on your phone
-  location: Share your live location using Google Maps (better for battery) or WhatsApp
-    (battery draining) with your friends and family
-  video: Use Instagram Live to share videos as much as possible so you have a record
-    of your content online in case you lose your phone
-  outro: Take these measures to keep yourself connected and safe.
+  title: ಇಂಟರ್ನೆಟ್ ಸ್ಥಗಿತದ ಸಮಯದಲ್ಲಿ ಹೇಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ?
+  intro: ಈ ಆಪ್ ಉಪಯೋಗಿಸಿ ಬ್ಲೂಟೂತ್ ಮುಖಾಂತರ ಬೇರೆ ಅವರ ಜೊತೆ ಸಂಪರ್ಕದಲ್ಲಿರಬಹುದು. ಮೆಸೇಜುಗಳು
+    ಹತ್ತಿರವಿರುವವರ ಫೋನಿಂದ ಇನ್ನೊಬ್ಬರ ಫೋನ್ ಮುಖಾಂತರ ಹರಡುತ್ತದೆ. ಅದಕ್ಕಾಗಿ ಎಷ್ಟು ಜಾಸ್ತಿ ಜನರ
+    ಫೋನುಗಳಲ್ಲಿ Bridgefy install ಆಗಿದೆಯೋ ಅಷ್ಟು ಉಪಯುಕ್ತ . Install ಮಾಡಿ ಸ್ನೇಹಿತರ ಜೊತೆ
+    ಪ್ರಯೋಗಿಸಿ ಆದಮೇಲೆ ಮಾತ್ರ ಹೊರಗೆ ಕಾಲಿಡಿ.
+  bluetooth: ಸ್ಥಾಪಿಸಿದ ನಂತರ ಬ್ಲೂಟೂತ್ ಆನ್ ಆಗಿದೆಯೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+  troubleshoot: 'ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ(In Application) ಹತ್ತಿರದ ಜನರು ನಿಮಗೆ ಕಾಣಿಸದೆ ಇದ್ದರೆ
+    ಪ್ರಯತ್ನಿಸಿ:'
+  airplane: ಏರೋಪ್ಲೇನ್ ಮೋಡ್(airplane mode) ಅನ್ನು ಆನ್ ಮತ್ತು ಆಫ್ ಮಾಡಿ.
+  battery: ಬ್ಯಾಟರಿ ಆಪ್ಟಿಮೈಸೇಶನ್ ಆಫ್ ಮಾಡಿ.
+  restart: ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ಒತ್ತಾಯಿಸಿ.
+  aware: 'ಗಮನದಲ್ಲಿರಲಿ:'
+  privacy: ಪ್ರಸಾರ ಮೋಡ್‌ನಲ್ಲಿ(Broadcast mode) ಯಾವುದೇ ಗೌಪ್ಯತೆ ಇಲ್ಲ. ನಿಮ್ಮ ಸುತ್ತ ಮುತ್ತದಲ್ಲಿರುವವರು
+    ನಿಮ್ಮ ಎಲ್ಲಾ ಮೆಸೇಜುಗಳನ್ನು ನೋಡಬಹುದು.
+  remember: 'ನೆನಪಿನಲ್ಲಿಡಿ:'
+  charge: ನಿಮ್ಮ ಫೋನ್ ಚಾರ್ಜ್ ಮಾಡಿ.
+  power_bank: ಪೂರ್ಣ ಚಾರ್ಜ್ ಪವರ್ ಬ್ಯಾಂಕ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.
+  chargers: ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಪವರ್ ಬ್ಯಾಂಕ್ ಚಾರ್ಜರ್‌ಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.
+  recharge: ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು ಟಾಕ್‌ಟೈಮ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಹೊಂದಿದ್ದೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+  location: ಗೂಗಲ್ ಮ್ಯಾಪ್‌ (Google map) ಅಥವಾ ವಾಟ್ಸಾಪ್(Whats App)  ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಲೈವ್
+    ಸ್ಥಳವನ್ನು  ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಮತ್ತು ಕುಟುಂಬದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.
+  video: ಸಾಧ್ಯವಾದಷ್ಟು ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು Instagram ಲೈವ್ ಬಳಸಿ, ಆದ್ದರಿಂದ ನಿಮ್ಮ
+    ಫೋನ್ ಕಳೆದುಹೋದರೆ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ನಿಮ್ಮ ವೀಡಿಯೊಗಳ ದಾಖಲೆಯನ್ನು ಪಡೆಯಬಹುದು.
+  outro: ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಈ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.
+  pagetitle: GUIDE FOR COMMUNICATION DURING NETWORK SHUTDOWNS
+  android_link: 'Android install link:'
+  ios_link: 'iOS install link:'
+  apk_link: 'APK download link:'
+  verify_step: Verify your number from Settings so you show up on your friends' list
+  verify_off: There is no way to hide the phone number on a verified account short
+    of deleting the account
+  verify_not_mandatory: This is not mandatory to use the app, only to find the people
+  contact_list: Refresh contact list. You'll need to be connected to the internet
+    for the contact list to sync.
+  verify: ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ನೀವು ನಿಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು(Mobile Number) ಪರಿಶೀಲಿಸಲು ಆರಿಸಿದರೆ,
+    ನಿಮ್ಮ ಸಂಖ್ಯೆ (number) ಗುಂಪಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಕಾಣಿಸುತ್ತದೆ.
+  delay: 'ಸಂದೇಶವು ಕ್ರಮಬದ್ಧವಾಗದೆ, ಸ್ವಲ್ಪ ವಿಳಂಬದೊಂದಿಗೆ ತಲುಪಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.
+
+'
+  other: WhatsApp / Telegram
+  keep_sending: Keep sending messages, they'll go out as soon as you get connected
+    to the internet
+  live_location: Live location sharing
+  maps: Google Maps
+  maps_steps: Go to Google Maps, click the hamburger menu on the top left > Location
+    sharing > Add people
+  indefinitely: You can do this indefinitely or just for that day
+  friends_battery: This method also shows you how much battery is left on your friends'
+    phone
+  no_drain: This method does not drain a lot of battery
+  google_data_collect: Google might collect some data, especially if your location
+    history is turned on
+  whatsapp: WhatsApp
+  telegram: Telegram
+  drain: This is battery draining
+  volunteer: Volunteer
+  available: 'Also available in:'
+  download: 'Download:'
