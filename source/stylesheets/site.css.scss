@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: rgba(#000, 0.7);
+  color: #000;
 
   &:focus,
   &:hover {
@@ -68,6 +68,31 @@ hr {
 
 p, li {
   font-size: 1.2rem;
+}
+
+.languages {
+  margin-top: 10rem;
+  text-align: center;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.languages ul,
+.languages li {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+  list-style: none;
+  display: inline;
+}
+
+.languages li {
+  display: inline-block;
+  margin: 2px 5px;
+}
+
+.languages li a{
+  font-weight: 600;
 }
 
 
