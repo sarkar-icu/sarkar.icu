@@ -16,12 +16,35 @@
     </div>
 
     <div class="languages">
+      <%
+        languages = ["हिन्दी", "ಕನ್ನಡ"]
+        code = ["hi","kn"]
+      %>
       <%=t(:available)%>
       <br>
       <ul>
         <li><a href="/">English</a></li>
-        <li><a href="/hi/">हिन्दी</a></li>
-        <li><a href="/kn/">ಕನ್ನಡ</a></li>
+        <% languages.each_with_index { |l,i| %>
+          <li>
+            <a href="/<%= code[i] %>/">
+              <%= l %>
+            </a>
+          </li>
+        <% } %>
+      </ul>
+
+      <br><br>
+      <%= t(:download) %>
+      <br>
+      <ul>
+        <li><a href="/images/poster-en.png">English</a></li>
+        <% languages.each_with_index { |l,i| %>
+          <li>
+            <a href="/images/poster-<%= code[i] %>.png">
+              <%= l %>
+            </a>
+          </li>
+        <% } %>
       </ul>
     </div>
 
