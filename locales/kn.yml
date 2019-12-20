@@ -1,64 +1,64 @@
 ---
 kn:
+  airplane: ಏರೋಪ್ಲೇನ್ ಮೋಡ್(airplane mode) ಅನ್ನು ಆನ್ ಮತ್ತು ಆಫ್ ಮಾಡಿ.
+  aware: 'ಗಮನದಲ್ಲಿರಲಿ:'
+  battery: ಬ್ಯಾಟರಿ ಆಪ್ಟಿಮೈಸೇಶನ್ ಆಫ್ ಮಾಡಿ.
+  bluetooth: ಸ್ಥಾಪಿಸಿದ ನಂತರ ಬ್ಲೂಟೂತ್ ಆನ್ ಆಗಿದೆಯೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+  charge: ನಿಮ್ಮ ಫೋನ್ ಚಾರ್ಜ್ ಮಾಡಿ.
+  chargers: ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಪವರ್ ಬ್ಯಾಂಕ್ ಚಾರ್ಜರ್‌ಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.
+  delay: 'ಸಂದೇಶವು ಕ್ರಮಬದ್ಧವಾಗದೆ, ಸ್ವಲ್ಪ ವಿಳಂಬದೊಂದಿಗೆ ತಲುಪಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.
+
+'
   install: 'Bridgefy install ಮಾಡಿಕೊಳ್ಳಿ '
-  no_calls: 'ಕಾಲ್ಸ್ ಇಲ್ಲ '
-  no_internet: 'ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ '
-  no_sms: 'ಮೆಸೇಜ್ (SMS) ಇಲ್ಲ '
-  title: ಇಂಟರ್ನೆಟ್ ಸ್ಥಗಿತದ ಸಮಯದಲ್ಲಿ ಹೇಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ?
   intro: ಈ ಆಪ್ ಉಪಯೋಗಿಸಿ ಬ್ಲೂಟೂತ್ ಮುಖಾಂತರ ಬೇರೆ ಅವರ ಜೊತೆ ಸಂಪರ್ಕದಲ್ಲಿರಬಹುದು. ಮೆಸೇಜುಗಳು
     ಹತ್ತಿರವಿರುವವರ ಫೋನಿಂದ ಇನ್ನೊಬ್ಬರ ಫೋನ್ ಮುಖಾಂತರ ಹರಡುತ್ತದೆ. ಅದಕ್ಕಾಗಿ ಎಷ್ಟು ಜಾಸ್ತಿ ಜನರ
     ಫೋನುಗಳಲ್ಲಿ Bridgefy install ಆಗಿದೆಯೋ ಅಷ್ಟು ಉಪಯುಕ್ತ . Install ಮಾಡಿ ಸ್ನೇಹಿತರ ಜೊತೆ
     ಪ್ರಯೋಗಿಸಿ ಆದಮೇಲೆ ಮಾತ್ರ ಹೊರಗೆ ಕಾಲಿಡಿ.
-  bluetooth: ಸ್ಥಾಪಿಸಿದ ನಂತರ ಬ್ಲೂಟೂತ್ ಆನ್ ಆಗಿದೆಯೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
-  troubleshoot: 'ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ(In Application) ಹತ್ತಿರದ ಜನರು ನಿಮಗೆ ಕಾಣಿಸದೆ ಇದ್ದರೆ
-    ಪ್ರಯತ್ನಿಸಿ:'
-  airplane: ಏರೋಪ್ಲೇನ್ ಮೋಡ್(airplane mode) ಅನ್ನು ಆನ್ ಮತ್ತು ಆಫ್ ಮಾಡಿ.
-  battery: ಬ್ಯಾಟರಿ ಆಪ್ಟಿಮೈಸೇಶನ್ ಆಫ್ ಮಾಡಿ.
-  restart: ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ಒತ್ತಾಯಿಸಿ.
-  aware: 'ಗಮನದಲ್ಲಿರಲಿ:'
-  privacy: ಪ್ರಸಾರ ಮೋಡ್‌ನಲ್ಲಿ(Broadcast mode) ಯಾವುದೇ ಗೌಪ್ಯತೆ ಇಲ್ಲ. ನಿಮ್ಮ ಸುತ್ತ ಮುತ್ತದಲ್ಲಿರುವವರು
-    ನಿಮ್ಮ ಎಲ್ಲಾ ಮೆಸೇಜುಗಳನ್ನು ನೋಡಬಹುದು.
-  remember: 'ನೆನಪಿನಲ್ಲಿಡಿ:'
-  charge: ನಿಮ್ಮ ಫೋನ್ ಚಾರ್ಜ್ ಮಾಡಿ.
-  power_bank: ಪೂರ್ಣ ಚಾರ್ಜ್ ಪವರ್ ಬ್ಯಾಂಕ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.
-  chargers: ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಪವರ್ ಬ್ಯಾಂಕ್ ಚಾರ್ಜರ್‌ಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.
-  recharge: ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು ಟಾಕ್‌ಟೈಮ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಹೊಂದಿದ್ದೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
   location: ಗೂಗಲ್ ಮ್ಯಾಪ್‌ (Google map) ಅಥವಾ ವಾಟ್ಸಾಪ್(Whats App)  ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಲೈವ್
     ಸ್ಥಳವನ್ನು  ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಮತ್ತು ಕುಟುಂಬದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.
+  no_calls: 'ಕಾಲ್ಸ್ ಇಲ್ಲ '
+  no_internet: 'ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ '
+  no_sms: 'ಮೆಸೇಜ್ (SMS) ಇಲ್ಲ '
+  outro: ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಈ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.
+  power_bank: ಪೂರ್ಣ ಚಾರ್ಜ್ ಪವರ್ ಬ್ಯಾಂಕ್ ಅನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.
+  recharge: ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು ಟಾಕ್‌ಟೈಮ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಹೊಂದಿದ್ದೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+  remember: 'ನೆನಪಿನಲ್ಲಿಡಿ:'
+  restart: ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ಒತ್ತಾಯಿಸಿ.
+  title: ಇಂಟರ್ನೆಟ್ ಸ್ಥಗಿತದ ಸಮಯದಲ್ಲಿ ಹೇಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು ?
   video: ಸಾಧ್ಯವಾದಷ್ಟು ವೀಡಿಯೊಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು Instagram ಲೈವ್ ಬಳಸಿ, ಆದ್ದರಿಂದ ನಿಮ್ಮ
     ಫೋನ್ ಕಳೆದುಹೋದರೆ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ನಿಮ್ಮ ವೀಡಿಯೊಗಳ ದಾಖಲೆಯನ್ನು ಪಡೆಯಬಹುದು.
-  outro: ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಈ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.
-  pagetitle: GUIDE FOR COMMUNICATION DURING NETWORK SHUTDOWNS
-  android_link: 'Android install link:'
-  ios_link: 'iOS install link:'
-  apk_link: 'APK download link:'
-  verify_step: Verify your number from Settings so you show up on your friends' list
-  verify_off: There is no way to hide the phone number on a verified account short
-    of deleting the account
-  verify_not_mandatory: This is not mandatory to use the app, only to find the people
-  contact_list: Refresh contact list. You'll need to be connected to the internet
-    for the contact list to sync.
-  verify: ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ನೀವು ನಿಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು(Mobile Number) ಪರಿಶೀಲಿಸಲು ಆರಿಸಿದರೆ,
-    ನಿಮ್ಮ ಸಂಖ್ಯೆ (number) ಗುಂಪಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಕಾಣಿಸುತ್ತದೆ.
-  delay: 'ಸಂದೇಶವು ಕ್ರಮಬದ್ಧವಾಗದೆ, ಸ್ವಲ್ಪ ವಿಳಂಬದೊಂದಿಗೆ ತಲುಪಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ.
-
-'
-  other: WhatsApp / Telegram
-  keep_sending: Keep sending messages, they'll go out as soon as you get connected
-    to the internet
-  live_location: Live location sharing
-  maps: Google Maps
-  maps_steps: Go to Google Maps, click the hamburger menu on the top left > Location
-    sharing > Add people
-  indefinitely: You can do this indefinitely or just for that day
-  friends_battery: This method also shows you how much battery is left on your friends'
-    phone
-  no_drain: This method does not drain a lot of battery
-  google_data_collect: Google might collect some data, especially if your location
-    history is turned on
-  whatsapp: WhatsApp
-  telegram: Telegram
-  drain: This is battery draining
-  volunteer: Volunteer
-  available: 'Also available in:'
-  download: 'Download:'
+  troubleshoot: 'ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ (In Application) ಹತ್ತಿರದ ಜನರು ನಿಮಗೆ ಕಾಣಿಸದೆ ಇದ್ದರೆ
+    ಪ್ರಯತ್ನಿಸಿ:'
+  privacy: ಪ್ರಸಾರ ಮೋಡ್‌ನಲ್ಲಿ (Broadcast mode) ಯಾವುದೇ ಗೌಪ್ಯತೆ ಇಲ್ಲ. ನಿಮ್ಮ ಸುತ್ತ ಮುತ್ತದಲ್ಲಿರುವವರು
+    ನಿಮ್ಮ ಎಲ್ಲಾ ಮೆಸೇಜುಗಳನ್ನು ನೋಡಬಹುದು.
+  pagetitle: ಇಂಟರ್ನೆಟ್ ಸ್ಥಗಿತದ ವೇಳೆ ಸಂಪರ್ಕ ಮಾರ್ಗದರ್ಶನ
+  android_link: 'ಆಂಡ್ರಾಯ್ಡ್ ಇನ್ಸ್ಟಾಲ್ ಲಿಂಕ್:'
+  ios_link: 'iOS ಇನ್ಸ್ಟಾಲ್ ಲಿಂಕ್:'
+  apk_link: 'APK ಡೌನ್ಲೋಡ್ ಲಿಂಕ್:'
+  verify_step: ನಿಮ್ಮ ನಂಬರನ್ನು ವೆರಿಫೈ ಮಾಡಿಕೊಂಡರೆ (ಸೆಟ್ಟಿಂಗ್ಸ್ ಮುಖಾಂತರ) ನಿಮ್ಮ ಸ್ನೇಹಿತರು
+    ನಿಮ್ಮನ್ನು ಸುಲಭವಾಗಿ App ಅಲ್ಲಿ ನಿಮ್ಮನ್ನು ಹುಡುಕಬಹುದು
+  verify_off: 'ಇದನ್ನು ತಡೆಯಲು ಅಕೌಂಟ್ ಡಿಲೀಟ್ ಮಾಡುವುದು ಬಿಟ್ಟು ಬೇರೆ ದಾರಿ ಇಲ್ಲ '
+  verify_not_mandatory: ನಿಮ್ಮ ನಂಬರ್ ಸಲ್ಲಿಸದೆಯೂ ಈ App ಅನ್ನು ಉಪಯೋಗಿಸಬಹುದು. ಆದರೆ ನಿಮ್ಮ
+    ನಂಬರ್ ಸಲ್ಲಿಸುವುದರಿಂದ ನಿಮ್ಮ ಸುತ್ತ ಮುತ್ತ ಜನರ ಜೊತೆ ಮಾತನಾಡುವುದು ಬಹಳ ಸುಲಭವಾಗುತ್ತದೆ!
+  contact_list: ಕಾಂಟಾಕ್ಟ್ ಲಿಸ್ಟನ್ನು ಅಪ್ಡೇಟ್ ಮಾಡಿ. ಇದಕ್ಕೆ  ಇಂಟರ್ನೆಟ್ ಸೌಲಭ್ಯ ಬೇಕಾಗುತ್ತದೆ.
+  verify: ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ನೀವು ನಿಮ್ಮ ಸಂಖ್ಯೆಯನ್ನು (mobile number) ಪರಿಶೀಲಿಸಲು ಆರಿಸಿದರೆ,
+    ನಿಮ್ಮ ಸಂಖ್ಯೆ ಗುಂಪಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಕಾಣಿಸುತ್ತದೆ.
+  other: ವಾಟ್ಸಾಪ್ / ಟೆಲಿಗ್ರಾಮ್
+  keep_sending: ಮೆಸೇಜುಗಳನ್ನು ಕಳುಹಿಸುತ್ತಲೇ ಇರಿ. ನೀವು ಇಂಟರ್ನೆಟ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಾಗ ಅವನ್ನು
+    ಕಳಿಸುತ್ತವೆ.
+  live_location: ಸ್ಥಳ ಹಂಚಿಕೆ
+  maps: 'ಗೂಗಲ್ ಮ್ಯಾಪ್ಸ್ '
+  maps_steps: Google Maps ಹೋಗಿ, ಮೇಲಿನ ಎಡಭಾಗದಲ್ಲಿರುವ ಹ್ಯಾಂಬರ್ಗರ್ ಮೆನು ಕ್ಲಿಕ್ ಮಾಡಿ >
+    Location sharing > Add people.
+  indefinitely: ನೀವು ಇದನ್ನು ಅನಿರ್ದಿಷ್ಟವಾಗಿ ಅಥವಾ ಆ ದಿನಕ್ಕಾಗಿ ಮಾಡಬಹುದು.
+  friends_battery: ಇದು ಅದ್ಭುತವಾಗಿದೆ ಏಕೆಂದರೆ ಇದು ನಿಮ್ಮ ಸ್ನೇಹಿತರ ಫೋನ್‌ಗಳಲ್ಲಿ ಎಷ್ಟು ಬ್ಯಾಟರಿ
+    ಉಳಿದಿದೆ ಎಂಬುದನ್ನು ಸಹ ತೋರಿಸುತ್ತದೆ.
+  no_drain: ಇದು ಹೆಚ್ಚಿನ ಬ್ಯಾಟರಿಯನ್ನು ಹರಿಸುವುದಿಲ್ಲ
+  google_data_collect: ಗೂಗಲ್ ಕೆಲವು ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು, ವಿಶೇಷವಾಗಿ ನೀವು ಸ್ಥಳ ಇತಿಹಾಸವನ್ನು
+    ಆನ್ ಮಾಡಿದ್ದರೆ.
+  whatsapp: ವಾಟ್ಸಾಪ್
+  telegram: ಟೆಲಿಗ್ರಾಮ್
+  drain: ನಿಮ್ಮ ಬ್ಯಾಟರಿ ಅವಧಿಯನ್ನು ಹರಿಸುತ್ತವೆ.
+  volunteer: ನೆರವಿಗೆ ಬಂದವರು
+  available: 'ಇಲ್ಲಿ ಸಹ ಸಿಗುತ್ತದೆ:'
+  download: 'ಡೌನ್ಲೋಡ್:'
