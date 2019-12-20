@@ -62,3 +62,47 @@ title: <%= t(:title) %>
 </main>
 
 <%= partial "languages" %>
+
+<a class="more-info" id="more-info" href="javascript:void(0);"><%= t(:moreinfo) %></a>
+
+<div id="more-info-container">
+<h2><%= t(:moreinfo) %></h2>
+
+<h3><%= t(:install) %></h3>
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=me.bridgefy.main"><%= t(:android_link) %></a></li>
+  <li><a href="https://apps.apple.com/us/app/bridgefy/id975776347"><%= t(:ios_link) %></a></li>
+  <li>
+    <a href="https://github.com/sarkar-icu/sarkar.icu/releases/download/DRAFT-01/bridgefy-offline-messaging_2.1.27.apk"><%= t(:apk_link) %></a><br>
+    <code>Checksum <br>
+      SHA256  <br>
+      eb447d88698ad13889ae4c56ba7e5 <br>
+      1b12481deff4f56f0846bca8290607 <br>
+      fe269 <br>
+      SHA1 bd028959f6117292f84dfdba8 <br>
+      48278faaed8963d <br>
+    </code>
+  </li>
+  <li><%= t(:verify_step) %></li>
+  <li><%= t(:verify_off) %></li>
+  <li><%= t(:verify_not_mandatory) %></li>
+  <li><%= t(:contact_list) %></li>
+</ul>
+
+<h3><%= t(:other) %></h3>
+<p>
+  <%= t(:keep_sending) %>
+  <br>
+  <%= t(:whatsapp_location) %>
+</p>
+
+<h3><%= t(:maps) %></h3>
+<ul>
+  <li><%= t(:needs_internet) %></li>
+  <li><%= t(:maps_steps) %></li>
+  <li><%= t(:indefinitely) %></li>
+  <li><%= t(:friends_battery) %></li>
+  <li><%= t(:no_drain) %></li>
+  <li><%= t(:google_data_collect) %></li>
+</ul>
+</div>
