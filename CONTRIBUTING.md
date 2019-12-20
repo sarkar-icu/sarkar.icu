@@ -27,3 +27,7 @@ If you'd like to help out by raising awareness, link people to the following add
 - <https://volunteer.sarkar.icu> - Volunteer
 
 Download the posters from https://github.com/sarkar-icu/sarkar.icu/releases and share them.
+
+## Anything else
+
+Reach out to us via the form at <https://volunteer.sarkar.icu>
