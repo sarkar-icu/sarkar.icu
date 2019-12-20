@@ -7,3 +7,4 @@ _site/
 build/
 .DS_Store
 poster-maker/node_modules
+vendor/

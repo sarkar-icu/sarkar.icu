@@ -9,6 +9,16 @@
     <title><%= t(:title) %></title>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154897328-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-154897328-1');
+    </script>
+
   </head>
   <body>
     <div class="wrapper">
