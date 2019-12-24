@@ -6,7 +6,7 @@ Currently:
 1. Posters and media regarding Network shutdowns that can be easily shared, generated using (2).
 
 Our current recommendation for app is Bridgefy, which we've decided after testing multiple alternatives.
-If you have other suggestions, please leave a comment [on this issue](#16).
+If you have other suggestions, please leave a comment [on this issue](https://github.com/sarkar-icu/sarkar.icu/issues/16).
 
 If you'd like to CONTRIBUTE in any way, please check [CONTRIBUTING.md](CONTRIBUTING.md).
 
