@@ -2,6 +2,15 @@
 title: <%= t(:title) %>
 ---
 
+<% if I18n.locale.to_s == "mni"%>
+<link rel="stylesheet" href="/stylesheets/eyek.css">
+<style>
+  main {
+    font-family: 'EyekPro', Helvetica, sans-serif;
+  }
+</style>
+<% end %>
+
 <main>
 
 <h1>
