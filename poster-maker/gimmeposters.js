@@ -53,3 +53,12 @@ const puppeteer = require('puppeteer');
   await code.screenshot({path: '../source/images/poster-pa.png'});
   await browser.close();
 })();
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto('http://localhost:4567/bn/');
+  const code = await page.$('main');
+  await code.screenshot({path: '../source/images/poster-bn.png'});
+  await browser.close();
+})();
